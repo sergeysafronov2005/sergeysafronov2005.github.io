@@ -1,0 +1,71 @@
+#essay {
+    background-color: #a5e3e6;
+    margin-top: 100px;
+}
+#home {
+    background-image:url("image.jpeg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+    
+}
+#homepage{
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  font-size: 100px;
+  font-family: "Times New Roman", Times, serif;
+ 
+}
+
+
+body{
+    background-color: #a5e3e6;
+    
+}
+
+p
+{
+    font-family : "Times New Roman", Times, serif;
+    font-size: 20px;
+}
+.essay
+{
+   align-content: center;
+   border: 3px solid black
+   
+}
+h1
+{
+    text-align: center;
+}
+a:link, a:visited {
+  background-color: #f44336;
+  color: white;
+  padding: 7px 12px;
+  text-align: center; 
+  text-decoration: none;
+  display: inline-block;
+}
+.center {
+  position: fixed;
+  top: 0px;
+  left: 0px;
+  /*width: 600px;*/
+  /*margin: auto;*/
+  text-align: center;
+}
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 25%;
+  margin-top: 50px;
+}
+iframe{
+    position: static;
+    margin: 200px;
+    margin-left: 350px;
+}
